@@ -2079,7 +2079,7 @@ ul.actions li:first-child {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	font-size: 13px;
+	font-size: 12.5px;
 	padding-left: 10px;
 	padding-right: 10px;
 }
